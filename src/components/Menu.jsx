@@ -4,7 +4,7 @@ export default function Menu(){
     return(
         <nav className='menu'>
             <Link to='/'>Home</Link>
-            <span>  </span>
+            <span> | </span>
             <Link to='/produtos'>Produtos</Link>
 
         </nav>
